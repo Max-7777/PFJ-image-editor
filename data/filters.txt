@@ -1,0 +1,16 @@
+//filter name,min value,range value,has slider,default slider val
+Invert,0,0,false
+Brighten,-100,250,true,0.5
+Threshold,0,255,true,0.6
+Threshold color,0,255,true,0.6
+Blur,1,6,true,0.1
+Mirror x-axis,0,0,false
+Mirror y-axis,0,0,false
+Remove red,0,0,false
+Remove green,0,0,false
+Remove blue,0,0,false
+Saturate,0,200,true,0.2
+Grayscale,0,0,false
+Bloom,1,8,true,0.1
+Contrast,0,3,true,0.075
+Padding,0,10,true,0
