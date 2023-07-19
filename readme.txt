@@ -3,6 +3,8 @@ https://processing.org/
 
 This program is an image editor used to apply a number of different effects to images!
 
+(Be sure to open the ImageEdit_2 file first, so Processing knows it's the main file, if not edit the file called sketch to be 'main=ImageEdit_2.pde')
+
 Controls:
 ‣ left & right arrow keys: next/previous image
 ‣ r: reset effects
