@@ -3,7 +3,7 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 
 To run PFJ Image Editor, you need to have installed Java JDK 17 or later!! You can download the latest here: https://jdk.java.net/  
 
-![PFJ Image Editor logo](image_editor_name.jpg)
+![PFJ Image Editor logo](banner.jpg)
 
 ## Controls
 - Left/right arrow keys: next/previous image.
