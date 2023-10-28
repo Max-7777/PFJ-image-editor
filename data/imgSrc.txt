@@ -1,0 +1,18 @@
+a.jpg: https://www.wikiwand.com/en/Cloudscape_photography
+c.jpg: https://iot.eetimes.com/what-are-hd-maps-and-how-will-they-get-us-closer-to-autonomous-cars/
+cat.jpg: https://www.businessinsider.com/pictures-of-how-cats-see-the-world-2013-10
+city.jpg: https://unsplash.com/photos/gray-tower-j1kCxiCIV9w
+d.jpg: https://www.nikkel-art.com/wall-murals-76-waterfalls-285954627-amazing-of-huay-mae-kamin-waterfall-in-colorful-autumn-forest-at-kanchanaburi-thailand.html
+e.jpg: https://www.pinterest.com/pin/848436017279152473/
+f.jpg: https://www.flickr.com/photos/cuatrok77/30768950513
+fish.jpg: https://www.sciencefriday.com/segments/fish-noise/
+i.png: DALLE 2 AI
+j.jpg: https://www.saatchiart.com/print/Painting-Woodland-lake-Oil-Painting-Nature-Original-Canvas/981650/4901274/view
+o.jpg: https://towardsdatascience.com/exploring-greater-sydney-suburbs-f2bf1562988e
+s.jpg: https://www.tripadvisor.com/Attraction_Review-g3948623-d103992-Reviews-Sunset_Beach-Lower_Township_Cape_May_County_New_Jersey.html#/media-atf/103992/400608901:p/?albumid=-160&type=0&category=-160
+sky.jpg: https://www.space.com/noctilucent-clouds
+t.jpg: https://scienceexchange.caltech.edu/topics/sustainability/wind-energy-advantages-disadvantages
+tree.jpg: https://www.istockphoto.com/photo/lonely-japanese-cherry-sakura-with-pink-flowers-in-spring-time-on-green-meadow-gm1142576725-306532092
+w.jpg: windows xp wallpaper
+x.jpg: https://www.quora.com/What-is-your-best-sunrise-sunset-photo
+y.jpg: bizjournals.com/boston/news/2018/09/01/artificial-intelligence-accounting-tools-launch.html
