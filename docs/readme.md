@@ -41,8 +41,9 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 - Presets are configurations of filters and effects I though looked cool so I saved them.
 - Presets can be loaded by clicking the preset buttons in the bottom right.
 
-## Adding your own images
+## Import/Export
 - To add any additional images you'd like to mess around with, add an image file to the data\\images directory, then type its directory in data\\imgDirs.txt.
+- Exporting images is currently not possible, sorry.
 
 (This program was made using the Processing Java IDE, more info here: https://processing.org/)
 
