@@ -5,7 +5,6 @@ images\\i.png
 images\\s.jpg
 images\\c.jpg
 images\\p.jpg
-images\\k.png
 images\\cat.jpg
 images\\city.jpg
 images\\e.jpg
