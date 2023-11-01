@@ -47,6 +47,6 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 
 (This program was made using the Processing Java IDE, more info here: https://processing.org/)
 
-*Please contact for questions or feedback: [maxcontact5555@gmail.com](mailto:maxcontact5555@gmail.com)*
+*Please contact for questions or feedback: [maxcontact5@keemail.me](mailto:maxcontact5@keemail.me)*
 
 https://github.com/Max-7777
