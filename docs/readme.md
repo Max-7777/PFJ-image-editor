@@ -18,13 +18,16 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 ![](sc_11.jpg)
 ![](sc_5.jpg)
 
+## Quick Start Guide
+- Download and unzip zip file.
+- Double click on PFJ_Image_Editor.exe file to run the program. (Windows may show unrecognized app popup but just click run anyway.)
 
 ## Controls
 - Left/right arrow keys: next/previous image.
 - R: reset effects.
-- Shift + click pixel: select a pixel (its color will be shown on the right.)
 - Click the checkboxes on the right to enable different effects.
 - Use the sliders to change the intensity of the applied effects.
+- Shift + click pixel: select a pixel (its color will be shown on the right.)
 
 ## Color Graph
 - The color graph is a graph in the top right that shows the distribution of intensities of red, green, and blue colors of an image.
