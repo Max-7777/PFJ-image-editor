@@ -5,19 +5,6 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 
 ![PFJ Image Editor logo](banner.jpg)
 
-## Showcase
-![](sc_1.jpg)
-![](sc_6.jpg)
-![](sc_4.jpg)
-![](sc_2.jpg)
-![](sc_3.jpg)
-![](sc_7.jpg)
-![](sc_8.jpg)
-![](sc_9.jpg)
-![](sc_10.jpg)
-![](sc_11.jpg)
-![](sc_5.jpg)
-
 ## Quick Start Guide
 - Download and unzip zip file.
 - Double click on PFJ_Image_Editor.exe file to run the program. (Windows may show unrecognized app popup but just click run anyway.)
@@ -53,3 +40,16 @@ PFJ Image Editor is an image editing program that can be used to analyze images 
 *Please contact for questions or feedback: [maxcontact5@keemail.me](mailto:maxcontact5@keemail.me)*
 
 https://github.com/Max-7777
+
+## Showcase
+![](sc_1.jpg)
+![](sc_6.jpg)
+![](sc_4.jpg)
+![](sc_2.jpg)
+![](sc_3.jpg)
+![](sc_7.jpg)
+![](sc_8.jpg)
+![](sc_9.jpg)
+![](sc_10.jpg)
+![](sc_11.jpg)
+![](sc_5.jpg)
